@@ -1,0 +1,3 @@
+AddinHeader.HelloWorld.Title="Hello-World";
+AddinHeader.HelloWorld.ShortHelp="Hello-World";
+AddinHeader.HelloWorld.LongHelp="Hello-World";
