@@ -14,7 +14,7 @@ Addin::~Addin()
 
 void Addin::CreateCommands()
 {
-new AddinHeader ("HelloWorld", "caa-demo", "HelloWorldCmd", (void *)NULL, CATFrmAvailable);
+new AddinHeader ("HelloWorld", "CaaDemo", "HelloWorldCmd", (void *)NULL, CATFrmAvailable);
 }
 
 CATCmdContainer *Addin::CreateToolbars()

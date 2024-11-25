@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.28)
 
 # 1. 项目构建
 # 1.1 项目名称
-project(caa-demo)
+project(CaaDemo)
 
 ## 1.2 输出路径
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
@@ -36,7 +36,7 @@ target_include_directories(${PROJECT_NAME} PRIVATE ${INCLUDE_DIRS})
 # 2. 三方库
 
 ## 2.1 设置vcpkg工具链
-set(CMAKE_TOOLCHAIN_FILE "C:/OPEN_CAD/vcpkg/scripts/buildsystems/vcpkg.cmake" CACHE STRING "vcpkg toolchain file")
+set(CMAKE_TOOLCHAIN_FILE "C:/vcpkg/scripts/buildsystems/vcpkg.cmake" CACHE STRING "vcpkg toolchain file")
 
 ## 2.2 头文件目录
 target_include_directories(${PROJECT_NAME} PRIVATE "C:/third_party/include")
