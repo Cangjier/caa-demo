@@ -18,6 +18,8 @@ WIZARD_LINK_MODULES = JS0GROUP \
 
 LINK_WITH = $(WIZARD_LINK_MODULES)
 
+SYS_LIBS=Version.lib
+
 # System dependant variables
 #
 OS = AIX

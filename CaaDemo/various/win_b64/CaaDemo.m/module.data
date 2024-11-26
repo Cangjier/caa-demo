@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\lib\CaaDemo.exp|.\CaaDemo\CaaDemo.m
+INT/000/CUS .\win_b64\code\bin\CaaDemo.pdb|.\CaaDemo\CaaDemo.m
+BTV/000/CUS .\win_b64\code\lib\CaaDemo.lib|.\CaaDemo\CaaDemo.m
+CSC/000/DSI .\CaaDemo\CaaDemo.m\Objects\win_b64\mkcsc\CaaDemo.cscdb|.\CaaDemo\CaaDemo.m
+RTV/001/CUS .\win_b64\code\bin\CaaDemo.dll|.\CaaDemo\CaaDemo.m

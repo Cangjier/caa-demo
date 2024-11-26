@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\AddinHeader.CATNls|.\CaaDemo\CNext\resources\msgcatalog\AddinHeader.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\AddinHeader.CATNls|.\CaaDemo\CNext\resources\msgcatalog\AddinHeader.CATNls
+CSC/002/DSI .\CaaDemo\IdentityCard\Objects\win_b64\mkcsc\CaaDemo.cscdb|.\CaaDemo
+BTV/002/CUS .\win_b64\code\productIC\CaaDemoIC.script|.\CaaDemo
+RTV/002/DSI .\win_b64\code\productIC\CaaDemoIC.required|.\CaaDemo
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\AddinHeader.CATNls|.\CaaDemo\CNext\resources\msgcatalog\AddinHeader.CATNls
+DAT/002/CUS .\win_b64\code\dictionary\CaaDemo.dico|.\CaaDemo\CNext\code\dictionary\CaaDemo.dico
+BTV/002/CUS .\win_b64\code\productIC\CaaDemoIC.xml|.\CaaDemo

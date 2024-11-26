@@ -35,12 +35,5 @@
 #define CATIAV5R19
 #define CATIAV5R20
 #define CATIAV5R21
-#define CATIAV5R22
-#define CATIAV5R23
-#define CATIAV5R24
-#define CATIAV5R25
-#define CATIAV5R26
-#define CATIAV5R27
-#define CATIAV5R28
 
 #endif

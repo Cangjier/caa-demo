@@ -1,5 +1,5 @@
 #include "Addin.h"
-
+#include "Tidy_GBKString.h"
 #include "CATCommandHeader.h"
 MacDeclareHeader(AddinHeader);
 CATImplementClass(Addin, Implementation, CATBaseUnknown, CATnull);
@@ -14,6 +14,7 @@ Addin::~Addin()
 
 void Addin::CreateCommands()
 {
+    Tidy::GBKString hello = "helloworld";
 new AddinHeader ("HelloWorld", "CaaDemo", "HelloWorldCmd", (void *)NULL, CATFrmAvailable);
 }
 
